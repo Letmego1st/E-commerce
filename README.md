@@ -1,3 +1,1 @@
-# E-commerce
-
-Homework assignment
+# E-commerce Back End Starter Code
