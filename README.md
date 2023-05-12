@@ -54,17 +54,5 @@ The following animation shows the application's GET, POST, PUT, and DELETE route
 
 In Insomnia Core, the user tests “GET product", "GET products", “CREATE product,” and “UPDATE product.”
 
-Grading Requirements
-  * Deliverables: 10%
-  
-  * Walkthrough Video: 37%
 
-  * Technical Acceptance Criteria: 40%
 
-  * Repository Quality: 13%
-Questions
-Email: rdevans87@gmail.com
-
-Github: rdevans87
-
-LICENSE FROM MIT
