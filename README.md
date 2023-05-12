@@ -1,6 +1,6 @@
-ORM-Ecommerce-Back End
+***ORM-Ecommerce-Back End***
 
-Description
+**Description**
 
 
 This project was developed using starter code to create a back-end application for an e-commerce site that uses the command line interface (CLI) and object-relational mapping for various methods of data manipulation, storage, and retrieval when using HTTP methods with a RESTUL API.
@@ -13,13 +13,13 @@ Repository on Github
 README deployed on GitHub pages
 Watch a demo of the Application's functionality: E-Commerce Backend Demo
 
-User Story
+**User Story****
 
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
-Acceptance Criteria
+**Acceptance Criteria**
 
 **GIVEN** a functional Express.js API
 
@@ -44,7 +44,7 @@ Acceptance Criteria
 **THEN** I am able to successfully create, update, and delete data in my database
 
 
-Installation/Usage
+**Installation/Usage**
 
 From the command line, run:
 
@@ -61,7 +61,7 @@ npm install dotenv
 npm run start
 
 
-Mock-Up
+**Mock-Up**
 
 The following animation shows the application's GET, POST, PUT, and DELETE routes for TAGS being tested in Insomnia Core:
 
