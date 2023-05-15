@@ -11,7 +11,7 @@ With the node.js packages installed and database seeded without error, run NPM S
 
 
 E-Commerce Backend Demo
-[![Ecommerce gif](./assets/Ecommerce%20walkthru%20vid.webm)]
+[![Ecommerce Demo](https://drive.google.com/file/d/1XKK4rNN5QJA-ix6sUOVe6hLImzO_yM2X/view)]
 
 **User Story**
 
