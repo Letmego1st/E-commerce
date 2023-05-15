@@ -9,11 +9,11 @@ The schema.sql file in the db folder was run in MySQL Workbench to create the ec
 
 With the node.js packages installed and database seeded without error, run NPM Start to start the server and connect to local host http://localhost:3001/. Then, an API GET request is performed for each route displaying in JSON format. All API POST, PUT, and DELETE routes are tested in Insomnia Core. I am able to successfully create, update, and delete data in my database.
 
-Repository on Github
-README deployed on GitHub pages
-Watch a demo of the Application's functionality: E-Commerce Backend Demo
 
-**User Story****
+E-Commerce Backend Demo
+![Ecommerce gif](./assets/Untitled_%20May%2015%2C%202023%204_08%20AM.mov)
+
+**User Story**
 
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
