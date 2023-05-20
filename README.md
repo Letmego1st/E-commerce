@@ -11,7 +11,7 @@ With the node.js packages installed and database seeded without error, run NPM S
 
 
 E-Commerce Backend Demo
-### [Ecommerce Demo](./assets/Untitled_%20May%2015%2C%202023%209_19%20AM-1.mp4)
+### [![Ecommerce Demo](./assets/Screenshot%202023-05-20%20at%205.23.51%20AM.png)](./assets/Untitled_%20May%2015%2C%202023%209_19%20AM-1.mp4)
 
 Github:
 
@@ -30,45 +30,48 @@ I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
 **Acceptance Criteria**
+```
 
-**GIVEN** a functional Express.js API
+GIVEN a functional Express.js API
 
-**WHEN** I add my database name, MySQL username, and MySQL password to an environment variable file
+WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 
-**THEN** I am able to connect to a database using Sequelize
+THEN I am able to connect to a database using Sequelize
 
-**WHEN** I enter schema and seed commands
+WHEN I enter schema and seed commands
 
-**THEN** a development database is created and is seeded with test data
+THEN a development database is created and is seeded with test data
 
-**WHEN** I enter the command to invoke the application
+WHEN I enter the command to invoke the application
 
-**THEN** my server is started and the Sequelize models are synced to the MySQL database
+THEN my server is started and the Sequelize models are synced to the MySQL database
 
-**WHEN** I open API GET routes in Insomnia Core for categories, products, or tags
+WHEN I open API GET routes in Insomnia Core for categories, products, or tags
 
-**THEN** the data for each of these routes is displayed in a formatted JSON
+THEN the data for each of these routes is displayed in a formatted JSON
 
-**WHEN** I test API POST, PUT, and DELETE routes in Insomnia Core
+WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 
-**THEN** I am able to successfully create, update, and delete data in my database
+THEN I am able to successfully create, update, and delete data in my database
+
+```
 
 
 **Installation/Usage**
 
 From the command line, run:
 
-npm init
+* npm init
 
-npm install mysql2
+* npm install mysql2
 
-npm install sequelize
+* npm install sequelize
 
-npm install express
+* npm install express
 
-npm install dotenv
+* npm install dotenv
 
-npm run start
+* npm run start
 
 
 **Mock-Up**
