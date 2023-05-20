@@ -1,6 +1,6 @@
-***ORM-Ecommerce-Back End***
+# ***ORM-Ecommerce-Back End***
 
-**Description**
+## **Description**
 
 
 This project was developed using starter code to create a back-end application for an e-commerce site that uses the command line interface (CLI) and object-relational mapping for various methods of data manipulation, storage, and retrieval when using HTTP methods with a RESTUL API.
@@ -11,7 +11,7 @@ With the node.js packages installed and database seeded without error, run NPM S
 
 
 E-Commerce Backend Demo
-![Ecommerce Demo](./assets/Untitled_%20May%2015%2C%202023%209_19%20AM-1.mp4)
+### [Ecommerce Demo](./assets/Untitled_%20May%2015%2C%202023%209_19%20AM-1.mp4)
 
 Github:
 
